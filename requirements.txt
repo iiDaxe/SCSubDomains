@@ -1,0 +1,12 @@
+requests
+re
+socket
+time
+bs4
+colorama
+threading
+threading
+json
+datetime
+os
+platform
