@@ -517,6 +517,9 @@ print(
 Mb     dM YM.    , 8M   MM    MM    MM  Mb     dM MM    MM  MM.   ,M9 
 P"Ybmmd"   YMbmd'  `Moo9^Yo..JMML  JMML.P"Ybmmd"  `Mbod"YML.P^YbmdP'  
 
+By : Daxe
+Github : https://github.com/iiDaxe
+
 Example : google.com , instagram.com
 
                                                                       
